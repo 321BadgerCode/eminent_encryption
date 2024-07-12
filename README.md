@@ -4,6 +4,10 @@
 
 A program to demonstrate simple encryption and cryptanalysis techniques.
 
+```diff
+- The ./decode.py program currently does not classify words as nouns, verbs, etc., so that the output can be narrowed down and improved even more since english has conventions such as an adjective often being before a noun.
+```
+
 ## Files
 
 - `./encode.py` is used to encode an input message.
